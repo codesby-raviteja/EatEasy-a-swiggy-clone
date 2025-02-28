@@ -1,10 +1,21 @@
-# React + Vite
+# 🍽️ EATEASY - Food Ordering Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EATEASY is a modern, responsive food ordering web application built with **React.js, Redux Toolkit, and Tailwind CSS**. It delivers a seamless and intuitive experience, allowing users to browse restaurants, explore menus, and add items to their cart with ease. 
 
-Currently, two official plugins are available:
+This project highlights expertise in **location-based services, responsive web design, and user-centric functionality**, providing a smooth and engaging food ordering experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Project-yet-to-be-completed
-# EatEasy-a-swiggy-clone
+## ✨ Features
+
+- 🚀 **Config-Driven UI**: Uses the **Swiggy Public API** to dynamically display restaurants and their menus.
+- 🔄 **Smooth Navigation**: Implemented with **React Router DOM** for a hassle-free user experience.
+- 🛒 **State Management**: Efficiently manages **cart state** using **Redux Toolkit**.
+- 📍 **Location-Based Services**: Utilizes **React Context API** to pass user location data seamlessly, avoiding prop drilling.
+- 📱 **Fully Responsive Design**: Tailored with **Tailwind CSS** to ensure compatibility across all devices.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Redux Toolkit, React Router DOM, Tailwind CSS
+- **State Management**: Redux Toolkit, Context API
+- **API**: Swiggy Public API
+
+
